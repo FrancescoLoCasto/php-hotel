@@ -74,7 +74,7 @@
                echo "<td>" . $hotel['distance_to_center'] . "</td>";
                echo "</tr>";
             }
-            echo"</tr>";
+            echo"</tbody>";
          ?>
       </table>
    </div>
