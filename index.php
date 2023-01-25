@@ -52,8 +52,10 @@
 
     ];
 
+    foreach($hotels as $key => $hotel){
+      
+    }
 
-    
 ?>
 
 
